@@ -10,3 +10,9 @@ l= 3
 
 resulta= k/l
 print(resulta)
+
+h=30
+g=8
+
+res= h+g
+print(res)
